@@ -1,0 +1,28 @@
+2.1 Latin Spacing, Basic   
+
+HHAHHBHHCHHDHHEHHFHHGHH
+HHIHJHHKHHHHLHHHMHHNHHOH
+HHPHHQHHRHHSHHTHHUHHVHH
+HHWHHXHHYHHZHHHÆHHŒH
+HHÞHHẞHHnnannbnncnndnnen
+nfnngnnhnninnjnnknnlnnmnnn
+nnonnpnnqnnrnnsnntnnunnvnn
+nnwnnnnxnnynnznnðnnþnnßnn
+
+2.2 Latin Kerning, Basic   
+
+HAOAH  HATAH  HAVAH  HAWAH  
+HAYAH  HBAH HBTH  HBVH  HBYH 
+HFAH  HFJH  HGTH  HGVH HGWH  
+HGYH  HJAJH  HKOH  HLTH  HLUH  
+HLVH HLWH  HLYH  HFJH  HOTOH  
+HOVOH  HOWOH HOXOH  HOYOH  
+HPJH  HRSH  HRTH  HRVH HRWH  
+HRYH  HSTH  HSVH  HSYH  HTOTH 
+HUAUH  HVAVH  HVSVH  HWAH  
+HWSH  HXOXH HYAYH  HYOYH  
+HYJH  HZOZH HPAH HPJH HTJH 
+HVJH HLOH HRUH
+nvn uvan nron ncon notofon nfn 
+novon nowon nxoxn nwn nyn 
+noyon nkon nzozn uvsvn nogon

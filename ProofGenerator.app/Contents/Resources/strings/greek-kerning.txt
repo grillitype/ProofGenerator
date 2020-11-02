@@ -1,0 +1,1190 @@
+7.1 Greek Kerning, 
+Uc   
+
+ΔΔ  НОНΔΔНОН
+ΔΩ  НОНΔΩНОН
+ΔΑ  НОНΔΑНОН
+ΔΖ  НОНΔΖНОН
+ΔΘ  НОНΔΘНОН
+ΔΛ  НОНΔΛНОН
+ΔΞ  НОНΔΞНОН
+ΔΣ  НОНΔΣНОН
+ΔΤ  НОНΔΤНОН
+ΔΥ  НОНΔΥНОН
+ΔΤ  НОНΔΤНОН
+ΔΦ  НОНΔΦНОН
+ΔΧ  НОНΔΧНОН
+ΔΨ  НОНΔΨНОН
+ΩΔ  НОНΩΔНОН
+ΩΩ  НОНΩΩНОН
+ΩΑ  НОНΩΑНОН
+ΩΖ  НОНΩΖНОН
+ΩΘ  НОНΩΘНОН
+ΩΛ  НОНΩΛНОН
+ΩΞ  НОНΩΞНОН
+ΩΣ  НОНΩΣНОН
+ΩΤ  НОНΩΤНОН
+ΩΥ  НОНΩΥНОН
+ΩΤ  НОНΩΤНОН
+ΩΦ  НОНΩΦНОН
+ΩΧ  НОНΩΧНОН
+ΩΨ  НОНΩΨНОН
+ΑΔ  НОНΑΔНОН
+ΑΩ  НОНΑΑНОН
+ΑΑ  НОНΑΑНОН
+ΑΖ  НОНΑΖНОН
+ΑΘ  НОНΑΘНОН
+ΑΛ  НОНΑΛНОН
+ΑΞ  НОНΑΞНОН
+ΑΣ  НОНΑΣНОН
+ΑΤ  НОНΑΤНОН
+ΑΥ  НОНΑΥНОН
+ΑΤ  НОНΑΤНОН
+ΑΦ  НОНΑΦНОН
+ΑΧ  НОНΑΧНОН
+ΑΨ  НОНΑΨНОН
+ΓΔ  НОНΓΔНОН
+ΓΩ  НОНΓΩНОН
+ΓΑ  НОНΓΑНОН
+ΓΖ  НОНΓΖНОН
+ΓΘ  НОНΓΘНОН
+ΓΛ  НОНΓΛНОН
+ΓΞ  НОНΓΞНОН
+ΓΣ  НОНΓΣНОН
+ΓΤ  НОНΓΤНОН
+ΓΥ  НОНΓΥНОН
+ΓΤ  НОНΓΤНОН
+ΓΦ  НОНΓΦНОН
+ΓΧ  НОНΓΧНОН
+ΓΨ  НОНΓΨНОН
+ΚΔ  НОНΚΔНОН
+ΚΩ  НОНΚΩНОН
+ΚΑ  НОНΚΑНОН
+ΚΖ  НОНΚΖНОН
+ΚΘ  НОНΚΘНОН
+ΚΛ  НОНΚΛНОН
+ΚΞ  НОНΚΞНОН
+ΚΣ  НОНΚΣНОН
+ΚΤ  НОНΚΤНОН
+ΚΥ  НОНΚΥНОН
+ΚΤ  НОНΚΤНОН
+ΚΦ  НОНΚΦНОН
+ΚΧ  НОНΚΧНОН
+ΚΨ  НОНΚΨНОН
+ΣΔ  НОНΣΔНОН
+ΣΩ  НОНΣΩНОН
+ΣΑ  НОНΣΑНОН
+ΣΖ  НОНΣΖНОН
+ΣΘ  НОНΣΘНОН
+ΣΛ  НОНΣΛНОН
+ΣΞ  НОНΣΞНОН
+ΣΣ  НОНΣΣНОН
+ΣΤ  НОНΣΤНОН
+ΣΥ  НОНΣΥНОН
+ΣΤ  НОНΣΤНОН
+ΣΦ  НОНΣΦНОН
+ΣΧ  НОНΣΧНОН
+ΣΨ  НОНΣΨНОН
+ΡΔ НОНΡΔНОН
+ΡΩ  НОНΡΩНОН
+ΡΑ  НОНΡΑНОН
+ΡΖ  НОНΡΖНОН
+ΡΘ  НОНΡΘНОН
+ΡΛ  НОНΡΛНОН
+ΡΞ  НОНΡΞНОН
+ΡΣ  НОНΡΣНОН
+ΡΤ  НОНΡΤНОН
+ΡΥ  НОНΡΥНОН
+ΡΤ  НОНΡΤНОН
+ΡΦ  НОНΡΦНОН
+ΡΧ  НОНΡΧНОН
+ΡΨ  НОНΡΨНОН
+ΤΔ  НОНΤΔНОН
+ΤΩ  НОНΤΩНОН
+ΤΑ  НОНΤΑНОН
+ΤΖ  НОНΤΖНОН
+ΤΘ  НОНΤΘНОН
+ΤΛ  НОНΤΛНОН
+ΤΞ  НОНΤΞНОН
+ΤΣ  НОНΤΣНОН
+ΤΤ  НОНΤΤНОН
+ΤΥ  НОНΤΥНОН
+ΤΤ  НОНΤΤНОН
+ΤΦ  НОНΤΦНОН
+ΤΧ  НОНΤΧНОН
+ΤΨ  НОНΤΨНОН
+ΥΔ  НОНΥΔНОН
+ΥΩ  НОНΥΩНОН
+ΥΑ  НОНΥΑНОН
+ΥΖ  НОНΥΖНОН
+ΥΘ  НОНΥΘНОН
+ΥΛ  НОНΥΛНОН
+ΥΞ  НОНΥΞНОН
+ΥΣ  НОНΥΣНОН
+ΥΤ  НОНΥΤНОН
+ΥΥ  НОНΥΥНОН
+ΥΤ  НОНΥΤНОН
+ΥΦ  НОНΥΦНОН
+ΥΧ  НОНΥΧНОН
+ΥΨ  НОНΥΨНОН
+ΦΔ  НОНΦΔНОН
+ΦΩ  НОНΦΩНОН
+ΦΑ  НОНΦΑНОН
+ΦΖ  НОНΦΖНОН
+ΦΘ  НОНΦΘНОН
+ΦΛ  НОНΦΛНОН
+ΦΞ  НОНΦΞНОН
+ΦΣ  НОНΦΣНОН
+ΦΤ  НОНΦΤНОН
+ΦΥ  НОНΦΥНОН
+ΦΤ  НОНΦΤНОН
+ΦΦ  НОНΦΦНОН
+ΦΧ  НОНΦΧНОН
+ΦΨ  НОНΦΨНОН
+ΧΔ  НОНΧΔНОН
+ΧΩ  НОНΧΩНОН
+ΧΑ  НОНΧΑНОН
+ΧΖ  НОНΧΖНОН
+ΧΘ  НОНΧΘНОН
+ΧΛ  НОНΧΛНОН
+ΧΞ  НОНΧΞНОН
+ΧΣ  НОНΧΣНОН
+ΧΤ  НОНΧΤНОН
+ΧΥ  НОНΧΥНОН
+ΧΤ  НОНΧΤНОН
+ΧΦ  НОНΧΦНОН
+ΧΧ  НОНΧΧНОН
+ΧΨ  НОНΧΨНОН
+ΨΔ  НОНΨΔНОН
+ΨΩ  НОНΨΩНОН
+ΨΑ  НОНΨΑНОН
+ΨΖ  НОНΨΖНОН
+ΨΘ  НОНΨΘНОН
+ΨΛ  НОНΨΛНОН
+ΨΞ  НОНΨΞНОН
+ΨΣ  НОНΨΣНОН
+ΨΤ  НОНΨΤНОН
+ΨΥ  НОНΨΥНОН
+ΨΤ  НОНΨΤНОН
+ΨΦ  НОНΨΦНОН
+ΨΧ  НОНΨΧНОН
+ΨΨ  НОНΨΨНОН
+
+7.2 Greek Kerning, 
+lc   
+
+μμ  nonμμnon
+μπ  nonμπnon
+μα  nonμαnon
+μγ  nonμγnon
+μδ  nonμδnon
+με  nonμεnon
+μζ  nonμζnon
+μθ  nonμθnon
+μκ  nonμκnon
+μλ  nonμλnon
+μν  nonμνnon
+μξ  nonμξnon
+μρ  nonμρnon
+μς  nonμςnon
+μτ  nonμτnon
+μυ  nonμυnon
+μφ  nonμφnon
+μχ  nonμχnon
+μψ  nonμψnon
+μω  nonμωnon
+πμ  nonπμnon
+ππ  nonππnon
+πα  nonπαnon
+πγ  nonπγnon
+πδ  nonπδnon
+πε  nonπεnon
+πζ  nonπζnon
+πθ  nonπθnon
+πκ  nonπκnon
+πλ  nonπλnon
+πν  nonπνnon
+πξ  nonπξnon
+πρ  nonπρnon
+πς  nonπςnon
+πτ  nonπτnon
+πυ  nonπυnon
+πφ  nonπφnon
+πχ  nonπχnon
+πψ  nonπψnon
+πω  nonπωnon
+αμ  nonααnon
+απ  nonαπnon
+αα  nonααnon
+αγ  nonαγnon
+αδ  nonαδnon
+αε  nonαεnon
+αζ  nonαζnon
+αθ  nonαθnon
+ακ  nonακnon
+αλ  nonαλnon
+αν  nonανnon
+αξ  nonαξnon
+αρ  nonαρnon
+ας  nonαςnon
+ατ  nonατnon
+αυ  nonαυnon
+αφ  nonαφnon
+αχ  nonαχnon
+αψ  nonαψnon
+αω  nonαωnon
+ββ  nonβμnon
+βπ  nonβπnon
+βα  nonβαnon
+βγ  nonβγnon
+βδ  nonβδnon
+βε  nonβεnon
+βζ  nonβζnon
+βθ  nonβθnon
+βκ  nonβκnon
+βλ  nonβλnon
+βν  nonβνnon
+βξ  nonβξnon
+βρ  nonβρnon
+βς  nonβςnon
+βτ  nonβτnon
+βυ  nonβυnon
+βφ  nonβφnon
+βχ  nonβχnon
+βψ  nonβψnon
+βω  nonβωnon
+γγ  nonγμnon
+γπ  nonγπnon
+γα  nonγαnon
+γγ  nonγγnon
+γδ  nonγδnon
+γε  nonγεnon
+γζ  nonγζnon
+γθ  nonγθnon
+γκ  nonγκnon
+γλ  nonγλnon
+γν  nonγνnon
+γξ  nonγξnon
+γρ  nonγρnon
+γς  nonγςnon
+γτ  nonγτnon
+γυ  nonγυnon
+γφ  nonγφnon
+γχ  nonγχnon
+γψ  nonγψnon
+γω  nonγωnon
+δδ  nonδμnon
+δπ  nonδπnon
+δα  nonδαnon
+δγ  nonδγnon
+δδ  nonδδnon
+δε  nonδεnon
+δζ  nonδζnon
+δθ  nonδθnon
+δκ  nonδκnon
+δλ  nonδλnon
+δν  nonδνnon
+δξ  nonδξnon
+δρ  nonδρnon
+δς  nonδςnon
+δτ  nonδτnon
+δυ  nonδυnon
+δφ  nonδφnon
+δχ  nonδχnon
+δψ  nonδψnon
+δω  nonδωnon
+εμ  nonεμnon
+επ  nonεπnon
+εα  nonεαnon
+εγ  nonεγnon
+εδ  nonεδnon
+εε  nonεεnon
+εζ  nonεζnon
+εθ  nonεθnon
+εκ  nonεκnon
+ελ  nonελnon
+εν  nonενnon
+εξ  nonεξnon
+ερ  nonερnon
+ες  nonεςnon
+ετ  nonετnon
+ευ  nonευnon
+εφ  nonεφnon
+εχ  nonεχnon
+εψ  nonεψnon
+εω  nonεωnon
+ζμ  nonζμnon
+ζπ  nonζπnon
+ζα  nonζαnon
+ζγ  nonζγnon
+ζδ  nonζδnon
+ζε  nonζεnon
+ζζ  nonζζnon
+ζθ  nonζθnon
+ζκ  nonζκnon
+ζλ  nonζλnon
+ζν  nonζνnon
+ζξ  nonζξnon
+ζρ  nonζρnon
+ζς  nonζςnon
+ζτ  nonζτnon
+ζυ  nonζυnon
+ζφ  nonζφnon
+ζχ  nonζχnon
+ζψ  nonζψnon
+ζω  nonζωnon
+ιι  nonιμnon
+ιπ  nonιπnon
+ια  nonιαnon
+ιγ  nonιγnon
+ιδ  nonιδnon
+ιε  nonιεnon
+ιζ  nonιζnon
+ιθ  nonιθnon
+ικ  nonικnon
+ιλ  nonιλnon
+ιν  nonινnon
+ιξ  nonιξnon
+ιρ  nonιρnon
+ις  nonιςnon
+ιτ  nonιτnon
+ιυ  nonιυnon
+ιφ  nonιφnon
+ιχ  nonιχnon
+ιψ  nonιψnon
+ιω  nonιωnon
+κκ  nonκμnon
+κπ  nonκπnon
+κα  nonκαnon
+κγ  nonκγnon
+κδ  nonκδnon
+κε  nonκεnon
+κζ  nonκζnon
+κθ  nonκθnon
+κκ  nonκκnon
+κλ  nonκλnon
+κν  nonκνnon
+κξ  nonκξnon
+κρ  nonκρnon
+κς  nonκςnon
+κτ  nonκτnon
+κυ  nonκυnon
+κφ  nonκφnon
+κχ  nonκχnon
+κψ  nonκψnon
+κω  nonκωnon
+λλ  nonλμnon
+λπ  nonλπnon
+λα  nonλαnon
+λγ  nonλγnon
+λδ  nonλδnon
+λε  nonλεnon
+λζ  nonλζnon
+λθ  nonλθnon
+λκ  nonλκnon
+λλ  nonλλnon
+λν  nonλνnon
+λξ  nonλξnon
+λρ  nonλρnon
+λς  nonλςnon
+λτ  nonλτnon
+λυ  nonλυnon
+λφ  nonλφnon
+λχ  nonλχnon
+λψ  nonλψnon
+λω  nonλωnon
+νν  nonνμnon
+νπ  nonνπnon
+να  nonναnon
+νγ  nonνγnon
+νδ  nonνδnon
+νε  nonνεnon
+νζ  nonνζnon
+νθ  nonνθnon
+νκ  nonνκnon
+νλ  nonνλnon
+νν  nonννnon
+νξ  nonνξnon
+νρ  nonνρnon
+νς  nonνςnon
+ντ  nonντnon
+νυ  nonνυnon
+νφ  nonνφnon
+νχ  nonνχnon
+νψ  nonνψnon
+νω  nonνωnon
+ξξ  nonξμnon
+ξπ  nonξπnon
+ξα  nonξαnon
+ξγ  nonξγnon
+ξδ  nonξδnon
+ξε  nonξεnon
+ξζ  nonξζnon
+ξθ  nonξθnon
+ξκ  nonξκnon
+ξλ  nonξλnon
+ξν  nonξνnon
+ξξ  nonξξnon
+ξρ  nonξρnon
+ξς  nonξςnon
+ξτ  nonξτnon
+ξυ  nonξυnon
+ξφ  nonξφnon
+ξχ  nonξχnon
+ξψ  nonξψnon
+ξω  nonξωnon
+ςς  nonςςnon
+ςπ  nonςπnon
+ςα  nonςαnon
+ςγ  nonςγnon
+ςδ  nonςδnon
+ςε  nonςεnon
+ςζ  nonςζnon
+ςθ  nonςθnon
+ςκ  nonςκnon
+ςλ  nonςλnon
+ςν  nonςνnon
+ςξ  nonςξnon
+ςρ  nonςρnon
+ςς  nonςςnon
+ςτ  nonςτnon
+ςυ  nonςυnon
+ςφ  nonςφnon
+ςχ  nonςχnon
+ςψ  nonςψnon
+ςω  nonςωnon
+ττ  nonττnon
+τπ  nonτπnon
+τα  nonταnon
+τγ  nonτγnon
+τδ  nonτδnon
+τε  nonτεnon
+τζ  nonτζnon
+τθ  nonτθnon
+τκ  nonτκnon
+τλ  nonτλnon
+τν  nonτνnon
+τξ  nonτξnon
+τρ  nonτρnon
+τς  nonτςnon
+ττ  nonττnon
+τυ  nonτυnon
+τφ  nonτφnon
+τχ  nonτχnon
+τψ  nonτψnon
+τω  nonτωnon
+υυ  nonυμnon
+υπ  nonυπnon
+υα  nonυαnon
+υγ  nonυγnon
+υδ  nonυδnon
+υε  nonυεnon
+υζ  nonυζnon
+υθ  nonυθnon
+υκ  nonυκnon
+υλ  nonυλnon
+υν  nonυνnon
+υξ  nonυξnon
+υρ  nonυρnon
+υς  nonυςnon
+υτ  nonυτnon
+υυ  nonυυnon
+υφ  nonυφnon
+υχ  nonυχnon
+υψ  nonυψnon
+υω  nonυωnon
+φφ  nonφμnon
+φπ  nonφπnon
+φα  nonφαnon
+φγ  nonφγnon
+φδ  nonφδnon
+φε  nonφεnon
+φζ  nonφζnon
+φθ  nonφθnon
+φκ  nonφκnon
+φλ  nonφλnon
+φν  nonφνnon
+φξ  nonφξnon
+φρ  nonφρnon
+φς  nonφςnon
+φτ  nonφτnon
+φυ  nonφυnon
+φφ  nonφφnon
+φχ  nonφχnon
+φψ  nonφψnon
+φω  nonφωnon
+χχ  nonχμnon
+χπ  nonχπnon
+χα  nonχαnon
+χγ  nonχγnon
+χδ  nonχδnon
+χε  nonχεnon
+χζ  nonχζnon
+χθ  nonχθnon
+χκ  nonχκnon
+χλ  nonχλnon
+χν  nonχνnon
+χξ  nonχξnon
+χρ  nonχρnon
+χς  nonχςnon
+χτ  nonχτnon
+χυ  nonχυnon
+χφ  nonχφnon
+χχ  nonχχnon
+χψ  nonχψnon
+χω  nonχωnon
+ψψ  nonψμnon
+ψπ  nonψπnon
+ψα  nonψαnon
+ψγ  nonψγnon
+ψδ  nonψδnon
+ψε  nonψεnon
+ψζ  nonψζnon
+ψθ  nonψθnon
+ψκ  nonψκnon
+ψλ  nonψλnon
+ψν  nonψνnon
+ψξ  nonψξnon
+ψρ  nonψρnon
+ψς  nonψςnon
+ψτ  nonψτnon
+ψυ  nonψυnon
+ψφ  nonψφnon
+ψχ  nonψχnon
+ψψ  nonψψnon
+ψω  nonψωnon
+ωμ  nonωμnon
+ωπ  nonωπnon
+ωα  nonωαnon
+ωγ  nonωγnon
+ωδ  nonωδnon
+ωε  nonωεnon
+ωζ  nonωζnon
+ωθ  nonωθnon
+ωκ  nonωκnon
+ωλ  nonωλnon
+ων  nonωνnon
+ωξ  nonωξnon
+ωρ  nonωρnon
+ως  nonωςnon
+ωτ  nonωτnon
+ωυ  nonωυnon
+ωφ  nonωφnon
+ωχ  nonωχnon
+ωω  nonωωnon
+ωω  nonωωnon
+
+7.3 Greek Kerning, 
+UC + lc   
+
+Δμ   Δμnon
+Δπ   Δπnon
+Δα   Δαnon
+Δγ   Δγnon
+Δδ   Δδnon
+Δε   Δεnon
+Δζ   Δζnon
+Δκ   Δκnon
+Δλ   Δλnon
+Δν   Δνnon
+Δξ   Δξnon
+Δτ   Δτnon
+Δυ   Δυnon
+Δχ   Δχnon
+Δψ   Δψnon
+Δω   Δωnon
+Ωμ   Ωμnon
+Ωπ   Ωπnon
+Ωα   Ωαnon
+Ωγ   Ωγnon
+Ωδ   Ωδnon
+Ωε   Ωεnon
+Ωζ   Ωζnon
+Ωκ   Ωκnon
+Ωλ   Ωλnon
+Ων   Ωνnon
+Ωξ   Ωξnon
+Ωτ   Ωτnon
+Ωυ   Ωυnon
+Ωχ   Ωχnon
+Ωψ   Ωψnon
+Ωω   Ωωnon
+Βμ   Βμnon
+Βπ   Βπnon
+Βα   Βαnon
+Βγ   Βγnon
+Βδ   Βδnon
+Βε   Βεnon
+Βζ   Βζnon
+Βκ   Βκnon
+Βλ   Βλnon
+Βν   Βνnon
+Βξ   Βξnon
+Βτ   Βτnon
+Βυ   Βυnon
+Βχ   Βχnon
+Βψ   Βψnon
+Βω   Βωnon
+Γμ   Γμnon
+Γπ   Γπnon
+Γα   Γαnon
+Γγ   Γγnon
+Γδ   Γδnon
+Γε   Γεnon
+Γζ   Γζnon
+Γκ   Γκnon
+Γλ   Γλnon
+Γν   Γνnon
+Γξ   Γξnon
+Γτ   Γτnon
+Γυ   Γυnon
+Γχ   Γχnon
+Γψ   Γψnon
+Γω   Γωnon
+Κμ   Κμnon
+Κπ   Κπnon
+Κα   Καnon
+Κγ   Κγnon
+Κδ   Κδnon
+Κε   Κεnon
+Κζ   Κζnon
+Κκ   Κκnon
+Κλ   Κλnon
+Κν   Κνnon
+Κξ   Κξnon
+Κτ   Κτnon
+Κυ   Κυnon
+Κχ   Κχnon
+Κψ   Κψnon
+Κω   Κωnon
+Ρμ   Ρμnon
+Ρπ   Ρπnon
+Ρα   Ραnon
+Ργ   Ργnon
+Ρδ   Ρδnon
+Ρε   Ρεnon
+Ρζ   Ρζnon
+Ρκ   Ρκnon
+Ρλ   Ρλnon
+Ρν   Ρνnon
+Ρξ   Ρξnon
+Ρτ   Ρτnon
+Ρυ   Ρυnon
+Ρχ   Ρχnon
+Ρψ   Ρψnon
+Ρω   Ρωnon
+Σμ   Σμnon
+Σπ   Σπnon
+Σα   Σαnon
+Σγ   Σγnon
+Σδ   Σδnon
+Σε   Σεnon
+Σζ   Σζnon
+Σκ   Σκnon
+Σλ   Σλnon
+Σν   Σνnon
+Σξ   Σξnon
+Στ   Στnon
+Συ   Συnon
+Σχ   Σχnon
+Σψ   Σψnon
+Σω   Σωnon
+Τμ   Τμnon
+Τπ   Τπnon
+Τα   Ταnon
+Τγ   Τγnon
+Τδ   Τδnon
+Τε   Τεnon
+Τζ   Τζnon
+Τκ   Τκnon
+Τλ   Τλnon
+Τν   Τνnon
+Τξ   Τξnon
+Ττ   Ττnon
+Τυ   Τυnon
+Τχ   Τχnon
+Τψ   Τψnon
+Τω   Τωnon
+Υμ   Υμnon
+Υπ   Υπnon
+Υα   Υαnon
+Υγ   Υγnon
+Υδ   Υδnon
+Υε   Υεnon
+Υζ   Υζnon
+Υκ   Υκnon
+Υλ   Υλnon
+Υν   Υνnon
+Υξ   Υξnon
+Υτ   Υτnon
+Υυ   Υυnon
+Υχ   Υχnon
+Υψ   Υψnon
+Υω   Υωnon
+Φμ   Φμnon
+Φπ   Φπnon
+Φα   Φαnon
+Φγ   Φγnon
+Φδ   Φδnon
+Φε   Φεnon
+Φζ   Φζnon
+Φκ   Φκnon
+Φλ   Φλnon
+Φν   Φνnon
+Φξ   Φξnon
+Φτ   Φτnon
+Φυ   Φυnon
+Φχ   Φχnon
+Φψ   Φψnon
+Φω   Φωnon
+Χμ   Χμnon
+Χπ   Χπnon
+Χα   Χαnon
+Χγ   Χγnon
+Χδ   Χδnon
+Χε   Χεnon
+Χζ   Χζnon
+Χκ   Χκnon
+Χλ   Χλnon
+Χν   Χνnon
+Χξ   Χξnon
+Χτ   Χτnon
+Χυ   Χυnon
+Χχ   Χχnon
+Χψ   Χψnon
+Χω   Χωnon
+Ψμ   Ψμnon
+Ψπ   Ψπnon
+Ψα   Ψαnon
+Ψγ   Ψγnon
+Ψδ   Ψδnon
+Ψε   Ψεnon
+Ψζ   Ψζnon
+Ψκ   Ψκnon
+Ψλ   Ψλnon
+Ψν   Ψνnon
+Ψξ   Ψξnon
+Ψτ   Ψτnon
+Ψυ   Ψυnon
+Ψχ   Ψχnon
+Ψψ   Ψψnon
+Ψω   Ψωnon
+
+7.4 Greek Kerning, 
+Punctuation   
+
+H.ΔНΔ.H
+H.ΩНΩ.H
+H.ΓНΓ.H
+H.ΨНΨ.H
+n.μnμ.n
+n.πnπ.n
+n.αnα.n
+n.εnε.n
+n.ζnζ.n
+n.ιnι.n
+n.κnκ.n
+n.λnλ.n
+n.ξnξ.n
+n.ςnς.n
+n.μnμ.n
+n.τnτ.n
+n.χnχ.n
+n.ωnω.n
+n.δnδ.n
+n.ξnξ.n
+
+H:ΔНΔ:H
+H:ΩНΩ:H
+H:ΓНΓ:H
+H:ΨНΨ:H
+n:μnμ:n
+n:πnπ:n
+n:αnα:n
+n:εnε:n
+n:ζnζ:n
+n:ιnι:n
+n:κnκ:n
+n:λnλ:n
+n:ξnξ:n
+n:ςnς:n
+n:μnμ:n
+n:τnτ:n
+n:χnχ:n
+n:ωnω:n
+n:δnδ:n
+n:ξnξ:n
+
+H-ΔНΔ-H
+H-ΩНΩ-H
+H-ΓНΓ-H
+H-ΨНΨ-H
+n-μnμ-n
+n-πnπ-n
+n-αnα-n
+n-εnε-n
+n-ζnζ-n
+n-ιnι-n
+n-κnκ-n
+n-λnλ-n
+n-ξnξ-n
+n-ςnς-n
+n-μnμ-n
+n-τnτ-n
+n-χnχ-n
+n-ωnω-n
+n-δnδ-n
+n-ξnξ-n
+
+H//ΔНΔ//H
+H//ΩНΩ//H
+H//ΓНΓ//H
+H//ΨНΨ//H
+n//μnμ//n
+n//πnπ//n
+n//αnα//n
+n//εnε//n
+n//ζnζ//n
+n//ιnι//n
+n//κnκ//n
+n//λnλ//n
+n//ξnξ//n
+n//ςnς//n
+n//μnμ//n
+n//τnτ//n
+n//χnχ//n
+n//ωnω//n
+n//δnδ//n
+n//ξnξ//n
+
+H\ΔНΔ\H
+H\ΩНΩ\H
+H\ΓНΓ\H
+H\ΨНΨ\H
+n\μnμ\/n
+n\πnπ\/n
+n\αnα\/n
+n\εnε\/n
+n\ζnζ\/n
+n\ιnι\/n
+n\κnκ\/n
+n\λnλ\/n
+n\ξnξ\/n
+n\ςnς\/n
+n\μnμ\/n
+n\τnτ\/n
+n\χnχ\/n
+n\ωnω\/n
+n\δnδ\/n
+n\ξnξ\/n
+
+H(ΔНΔ)H
+H(ΩНΩ)H
+H(ΓНΓ)H
+H(ΨНΨ)H
+n(μnμ)n
+n(πnπ)n
+n(αnα)n
+n(εnε)n
+n(ζnζ)n
+n(ιnι)n
+n(κnκ)n
+n(λnλ)n
+n(ξnξ)n
+n(ςnς)n
+n(μnμ)n
+n(τnτ)n
+n(χnχ)n
+n(ωnω)n
+n(δnδ)n
+n(ξnξ)n
+
+H[ΔНΔ]H
+H[ΩНΩ]H
+H[ΓНΓ]H
+H[ΨНΨ]H
+n[μnμ]n
+n[πnπ]n
+n[αnα]n
+n[εnε]n
+n[ζnζ]n
+n[ιnι]n
+n[κnκ]n
+n[λnλ]n
+n[ξnξ]n
+n[ςnς]n
+n[μnμ]n
+n[τnτ]n
+n[χnχ]n
+n[ωnω]n
+n[δnδ]n
+n[ξnξ]n
+
+H{ΔНΔ}H
+H{ΩНΩ}H
+H{ΓНΓ}H
+H{ΨНΨ}H
+n{μnμ}n
+n{πnπ}n
+n{αnα}n
+n{εnε}n
+n{ζnζ}n
+n{ιnι}n
+n{κnκ}n
+n{λnλ}n
+n{ξnξ}n
+n{ςnς}n
+n{μnμ}n
+n{τnτ}n
+n{χnχ}n
+n{ωnω}n
+n{δnδ}n
+n{ξnξ}n
+
+H?ΔНΔ?H
+H?ΩНΩ?H
+H?ΓНΓ?H
+H?ΨНΨ?H
+n?μnμ?n
+n?πnπ?n
+n?αnα?n
+n?εnε?n
+n?ζnζ?n
+n?ιnι?n
+n?κnκ?n
+n?λnλ?n
+n?ξnξ?n
+n?ςnς?n
+n?μnμ?n
+n?τnτ?n
+n?χnχ?n
+n?ωnω?n
+n?δnδ?n
+n?ξnξ?n
+
+H!ΔНΔ!H
+H!ΩНΩ!H
+H!ΓНΓ!H
+H!ΨНΨ!H
+n!μnμ!n
+n!πnπ!n
+n!αnα!n
+n!εnε!n
+n!ζnζ!n
+n!ιnι!n
+n!κnκ!n
+n!λnλ!n
+n!ξnξ!n
+n!ςnς!n
+n!μnμ!n
+n!τnτ!n
+n!χnχ!n
+n!ωnω!n
+n!δnδ!n
+n!ξnξ!n
+
+H*ΔНΔ*H
+H*ΩНΩ*H
+H*ΓНΓ*H
+H*ΨНΨ*H
+n*μnμ*n
+n*πnπ*n
+n*αnα*n
+n*εnε*n
+n*ζnζ*n
+n*ιnι*n
+n*κnκ*n
+n*λnλ*n
+n*ξnξ*n
+n*ςnς*n
+n*μnμ*n
+n*τnτ*n
+n*χnχ*n
+n*ωnω*n
+n*δnδ*n
+n*ξnξ*n
+
+7.5 Greek Kerning, 
+Quotation   
+
+H«ΔНΔ»H
+H«ΩНΩ»H
+H«ΓНΓ»H
+H«ΦНΦ»H
+H«ΨНΨ»H
+n«μnμ»n
+n«πnπ»n
+n«αnα»n
+n«εnε»n
+n«ζnζ»n
+n«ιnι»n
+n«κnκ»n
+n«λnλ»n
+n«ξnξ»n
+n«ςnς»n
+n«μnμ»n
+n«τnτ»n
+n«χnχ»n
+n«ωnω»n
+n«δnδ»n
+n«ξnξ»n
+
+7.6 Greek Kerning, 
+Figures + lc   
+
+n0μnμ0n
+n1μnμ1n
+n2μnμ2n
+n3μnμ3n
+n4μnμ4n
+n5μnμ5n
+n6μnμ6n
+n7μnμ7n
+n8μnμ8n
+n9μnμ9n
+
+n0πnπ0n
+n1πnπ1n
+n2πnπ2n
+n3πnπ3n
+n4πnπ4n
+n5πnπ5n
+n6πnπ6n
+n7πnπ7n
+n8πnπ8n
+n9πnπ9n
+
+n0γnγ0n
+n1γnγ1n
+n2γnγ2n
+n3γnγ3n
+n4γnγ4n
+n5γnγ5n
+n6γnγ6n
+n7γnγ7n
+n8γnγ8n
+n9γnγ9n
+
+n0ζnζ0n
+n1ζnζ1n
+n2ζnζ2n
+n3ζnζ3n
+n4ζnζ4n
+n5ζnζ5n
+n6ζnζ6n
+n7ζnζ7n
+n8ζnζ8n
+n9ζnζ9n
+
+n0ιnι0n
+n1ιnι1n
+n2ιnι2n
+n3ιnι3n
+n4ιnι4n
+n5ιnι5n
+n6ιnι6n
+n7ιnι7n
+n8ιnι8n
+n9ιnι9n
+
+n0λnλ0n
+n1λnλ1n
+n2λnλ2n
+n3λnλ3n
+n4λnλ4n
+n5λnλ5n
+n6λnλ6n
+n7λnλ7n
+n8λnλ8n
+n9λnλ9n
+
+n0ξnξ0n
+n1ξnξ1n
+n2ξnξ2n
+n3ξnξ3n
+n4ξnξ4n
+n5ξnξ5n
+n6ξnξ6n
+n7ξnξ7n
+n8ξnξ8n
+n9ξnξ9n
+
+n0ςnς0n
+n1ςnς1n
+n2ςnς2n
+n3ςnς3n
+n4ςnς4n
+n5ςnς5n
+n6ςnς6n
+n7ςnς7n
+n8ςnς8n
+n9ςnς9n
+
+n0χnχ0n
+n1χnχ1n
+n2χnχ2n
+n3χnχ3n
+n4χnχ4n
+n5χnχ5n
+n6χnχ6n
+n7χnχ7n
+n8χnχ8n
+n9χnχ9n
+
+7.8 Greek Kerning, 
+Figures + Uc   
+
+H0ΔHΔ0H
+H1ΔHΔ1H
+H2ΔHΔ2H
+H3ΔHΔ3H
+H4ΔHΔ4H
+H5ΔHΔ5H
+H6ΔHΔ6H
+H7ΔHΔ7H
+H8ΔHΔ8H
+H9ΔHΔ9H
+
+H0ΓHΓ0H
+H1ΓHΓ1H
+H2ΓHΓ2H
+H3ΓHΓ3H
+H4ΓHΓ4H
+H5ΓHΓ5H
+H6ΓHΓ6H
+H7ΓHΓ7H
+H8ΓHΓ8H
+H9ΓHΓ9H
+
+H0ΣHΣ0H
+H1ΣHΣ1H
+H2ΣHΣ2H
+H3ΣHΣ3H
+H4ΣHΣ4H
+H5ΣHΣ5H
+H6ΣHΣ6H
+H7ΣHΣ7H
+H8ΣHΣ8H
+H9ΣHΣ9H
+
+H0ΦHΦ0H
+H1ΦHΦ1H
+H2ΦHΦ2H
+H3ΦHΦ3H
+H4ΦHΦ4H
+H5ΦHΦ5H
+H6ΦHΦ6H
+H7ΦHΦ7H
+H8ΦHΦ8H
+H9ΦHΦ9H
+
+H0ΨHΨ0H
+H1ΨHΨ1H
+H2ΨHΨ2H
+H3ΨHΨ3H
+H4ΨHΨ4H
+H5ΨHΨ5H
+H6ΨHΨ6H
+H7ΨHΨ7H
+H8ΨHΨ8H
+H9ΨHΨ9H

@@ -1,0 +1,1377 @@
+3.1 Latin Kerning, 
+Uc   
+
+AJ  AJAR
+AO  AORTA
+AOA  BILBAOANS
+AS  AENEAS
+ASA  BASALT
+AT  ATLAS
+AT  ENTREATY
+AT  GWATHMEY
+AT  IMMEDIATE
+AT  OATMEAL
+AT  WHAT
+ATA  BATAILLON
+AU  AUTHORIZED
+AU  AUTO
+AU  UMLAUT
+AUA  BAUAUFLAGE
+AV  AVE
+AV  AVENIR
+AV  XAVIER
+AVA  HAVANNA
+AW  AWAY
+AW  AWE
+AWA  EUROPAWAHL
+AY  AYOLA
+AY  DWAYNE
+AY  GAYLE
+AY  WEDNESDAY
+AYA  PAPAYA
+BA  AKBAR
+BA  BAND
+BA  ZANZABAR
+BJ  BJORN
+BO  BOG
+BS  IBSEN
+BS  TUMBS
+BT  BOBTAILS
+BU  ABTREIBUNG
+BV  BVART
+BW  OBWOHL
+BX  ABXAZO
+BY  BYPASS
+BY  BYTE
+BZ  BZONGA
+CA  AMERICANISM
+CA  CACHET
+CJ  ARCJETS
+CO  COPE
+CT  ECTOMORPH
+CT  FACT
+CV  COMICVERSE
+CW  CWACKER
+CY  CYRANO
+CYC  BICYCLE
+CZ  MOTEUCZOMA
+DA  DAY
+DA  YUDAS
+DJ  DJAKARTA
+DS  MCDONNALDS
+DV  ADVERT
+DW  DWAYNE
+DY  DYLAN
+DY  GDYNIA
+DZ  DZERZHINSK
+EC  ECTOMORPH
+EG  AEGIS
+EG  EGYPT
+EJ  ERNTEJAHRE
+EO  EOLIAN
+ES  ESKIMO
+ET  EINTRETEN
+EV  BEVORSTEHT
+EW  GEWERBE
+EX  EXIT
+EY  CEYLON
+EZ  GEZIERT
+FA  AGFA
+FA  WUTANFALL
+FJ  FJORD
+FO  CALIFORNIA
+FO  FONT
+FS  IMPFSTOFFE
+FT  AFT
+FU  FUNE
+FW  KOPFWEH
+FY  FYNLEY
+FZ  TOPFZEIT
+GA  UGANDA
+GO  OGOR
+GS  GZAGS
+GT  PLAGTEN
+GV  ZUGVOGEL
+GW  GWATHMEY
+GW  GWEN
+GX  NINGXIA
+GY  DINGY
+GY  EGYPT
+GY  GYRO
+GY  IGGY
+GZ  FLUGZIEL
+JA  JACKY
+JA  JAHRGANG
+KO  KOKO
+KO  KOLOSSEUM
+KS  IWERKS
+KS  JENKS
+KU  KULINARISCH
+KY  NOOKY
+KY  VICKY
+LG  VULGAR
+LO  FLORIDA
+LO  LOAD
+LO  SLOW
+LO  XOLON
+LO  XYLOPHONE
+LS  QELS
+LT  HILTON
+LT  SVELTE
+LU  BLUME
+LU  CLUTE
+LV  VOLVO
+LV  REVOLVER
+LW  REALWERT
+LY  LYNCH
+LY  UTTERLY
+OA  BLOAT
+OA  LOAD
+OJ  PROJEKT
+OS  CNOSSUS
+OS  OSTRA
+OT  GONOT
+OT  OTTMAR
+OTO  MOTOR
+OV  NOVOCANE
+OV  OVER
+OVO  KOSOVO
+OW  CROW
+OW  TOWER
+OW  WINDOW
+OWO  SOWOHL
+OX  XEROX
+OXO  PARADOXON
+OY  AHOY
+OY  ROYAL
+OYO  TOYOTA
+OZ  OZEANE
+OZO  PROZONES
+PA  APALOOSA
+PA  BYPASS
+PA  PARAGLIDER
+PA  SPANNUNG
+PJ  SKOPJE
+PO  POLEN
+PO  SPOKE
+PS  OOPS
+PS  UPSTAIRS
+PT  TYPTESTS
+PV  UPVOTED
+PW  KIPPWAGEN
+PY  BUMPY
+PY  PYRE
+PZ  LEIPZIG
+QA  QANAT
+QI  SQISH
+QO  YAQONA
+QS  BUQSHA
+QT  NUQTA
+QU  OBLIQUE
+QU  SQUIRE
+QV  AQVAVITS
+QW  TAQWA
+QY  SESQYIPEDALITY
+RJ  CARJACKS
+RO  BROT
+RO  ROTWEIN
+RO  XEROX
+RS  TORSTEN
+RS  UPSTAIRS
+RS  VERSION
+RT  BVART
+RT  DJAKARTA
+RT  HUBERT
+RU  FEBRUARY
+RU  RUSSLAND
+RV  LARVE
+RW  CERVANTES
+RX  RWANDA
+RY  CARRY
+RY  FURY
+RY  JHERRY
+SA  KUSACK
+SA  SACRIFICE
+SA  SENSATION
+SA  WSA
+SC  KULINARISCH
+SC  SCUZZ
+SJ  TESJE
+SO  DAVIDSON
+SS  ABMESSEN
+ST  EPSTEIN
+ST  HYSTERIE
+ST  TORSTEN
+STS  FESTSETZEN
+SU  SUCHEN
+SU  SUNG
+SV  SVELTE
+SW  IPSWITCH
+SW  SWAP
+SW  SWISS
+SY  GYPSY
+SY  SYMANTICTAIL
+SZ  JAHRESZAHL
+SZ  KAMPFSZENE
+TA  FREITAG
+TA  TAMARA
+TA  TOTAL
+TA  STATE
+TJ  KATJA
+TO  ATOM
+TO  HILTON
+TO  STONER
+TO  TOWER
+TO  TOTAL
+TOT  AUTOTÜR
+TS  TSENA
+RY  RYAL
+UA  AQUARIUM
+UA  FEBRUARY
+UA  IQUART
+UJ  SUJET
+US  IQUARUS
+UX  LUXURIOUS
+VA  CERVANTES
+VA  EVA
+VA  VALERIE
+VO  AVON
+VO  NOVOCANE
+VO  VOLVO
+VO  VORORT
+VOV  DEVOVED
+VS  AKTIVSALDO
+WA  DWAYNE
+WA  EWAN
+WA  GWATHMEY
+WA  RWANDA
+WA  SWAP
+WJ  BLOWJOB
+WO  AWOR
+WO  WORLD
+WS  WSA
+WU  WULK
+XO  EXODUS
+XO  XOLON
+XS  SEXSYMBOL
+XU  XUNA
+YA  HYACINTH
+YA  IYAAA
+YA  NYACK
+YA  YABOE
+YJ  PYJAMA
+YO  AYOLA
+YO  YOYO
+YS  HYSTERIE
+YS  OYSTER
+ZO  BZONGA
+ZS  UZSSAI
+ZSZ  JAZZSZENE
+ZZ  PIZZA
+VÆ  VÆRØY
+WÆ  WÆRINGWIC
+YÆ  HYÆNA
+FÆ  ÓFÆRUFOSS
+TÆ  TÆNARUM
+PÆ  PÆDIATRIC
+BÆ  BÆRUM
+ÞV  ÞVOÐI
+ÞW  ÞWERAN
+ÞJ ÞJAZI 
+ÞA ÞANGBRANDR 
+ÞY ÞYKKI
+
+3.2 Latin Kerning, 
+lc   
+
+aj  ajar
+at  atlas
+at  gwathmey
+at  oatmeal
+av  ave
+av  avenir
+av  xavier
+ava  avatar
+aw  away
+aw  awe
+awa  europawahl
+ay  ayola
+ay  dwayne
+ay  gayle
+ba  akbar
+ba  band
+bj  bjorn
+bo  bog
+bs  ibsen
+bt  bobtails
+bv  bvart
+bw  obwohl
+bx  abxazo
+by  bypass
+by  byte
+bz  bzonga
+ca  americanism
+cj  arcjets
+co  cope
+ct  ectomorph
+ct  fact
+cv  comicverse
+cw  cwacker
+cy  cyrano
+cyc  bicycle
+cz  moteuczoma
+dj  djakarta
+eg  egypt
+ej  erntejahre
+es  eskimo
+et  eintreten
+ev  bevorsteht
+ew  gewerbe
+ex  exit
+ey  ceylon
+ez  geziert
+fa  agfa
+fa  wutanfall
+fj  fjord
+fo  california
+fs  impfstoffe
+ga  uganda
+go  ogor
+gs  gzags
+gt  plagten
+gv  zugvogel
+gw  gwathmey
+gx  ningxia
+gy  egypt
+gy  gyro
+gz  flugziel
+ko  koko
+ko  kolosseum
+ks  jenks
+ku  kulinarisch
+ky  vicky
+oa  load
+oj  projekt
+os  ostra
+ot  gonot
+ov  novocane
+ov  over
+ow  crow
+ow  tower
+ow  window
+owo  sowohl
+ox  xerox
+oxo  paradoxon
+oy  ahoy
+oy  royal
+oyo toyota
+oz  ozeane
+ozo  prozones
+pa  apaloosa
+pa  bypass
+pa  paraglider
+pj  pjb
+ps  oops
+ps  upstairs
+pt  typtests
+pv  upvoted
+pw  kippwagen
+py  pyre
+pz  leipzig
+rj  carjacks
+ro  brot
+ro  rotwein
+ro  xerox
+rs  torsten
+rs  upstairs
+rs  version
+rt  bvart
+rt  djakarta
+rt  hubert
+ru  february
+rv  larve
+rw  cervantes
+rx  rwanda
+ry  carry
+ry  fury
+sa  kusack
+sa  sensation
+sc  kulinarisch
+sj  tesje
+so  davidson
+ss  abmessen
+st  epstein
+st  hysterie
+st  torsten
+sv  svelte
+svs  saskia
+sw  ipswitch
+sw  swiss
+sy  gypsy
+sz  kampfszene
+ta  freitag
+ta  total
+ta  state
+tj  katja
+to  atom
+to  stoner
+to  total
+oto  motor
+ts  tsena
+ry  ryal
+va  cervantes
+va  valerie
+vo  avon
+vo  novocane
+vo  volvo
+vo  vorort
+vov  devoved
+vs  aktivsaldo
+wa  dwayne
+wa  gwathmey
+wa  rwanda
+wa  swap
+wj  blowjob
+wo  awor
+wo  world
+wow  wowing
+ws  browser
+wsw  newswire
+xo  exodus
+xo  xolon
+xs  sexsymbol
+xu  xuna
+ya  hyacinth
+ya  nyack
+ya  yaboe
+yj  pyjama
+yo  ayola
+yo  yoyo
+ys  hysterie
+ys  oyster
+zo  bzonga
+zs  uzssai
+zsz  jazzszene
+zz  pizza
+þv  þvoði
+þw  þweran
+þj þjazi
+þy þykki
+
+3.3 Latin Kerning, 
+Uc + lc   
+
+Aa  Aaron
+Ac  Achse
+Ad  Advert
+Ae  Aellig
+Af  Aft
+Ag  Agro
+Aj  Ajar
+Ao  Aorta
+Aq  Aquarium
+As  Ascot
+At  Atlas
+Au  Authorized
+Av  Avenir
+Aw  Away
+Ax  Axel
+Ay  Ayola
+Be  Bet
+Bj  Bjorn
+Bo  Bog
+Bv  Bvart
+By  Bypass
+Bz  Bzonga
+Ca  California
+Ce  Cervantes
+Co  Cope
+Cw  Cwacker
+Cy  Cyrano
+Da  Dark
+Dj  Djakarta
+Do  Doris
+Dw  Dwayne
+Dy  Dylan
+Ea  Eames
+Ef  Effingham
+Eg  Egypt
+Ej  Eject
+Eo  Eolian
+Es  Eskimo
+Et  Ethiopia
+Ev  Ever
+Ew  Ewan
+Ex  Exit
+Ey  Eyck
+Fa  Fabian
+Fe  February
+Fi  Film
+Fj  Fjord
+Fo  Font
+Ft  Ftan
+Fu  Furger
+Fy  Fyn
+Gj  Gjellerup
+Go  Gonot
+Gw  Gwathmey
+Gy  Gyro
+Gz  Gzags
+Ka  Karl
+Ko  Kolosseum
+Ku  Kulinarisch
+Kv  Kva
+Kw  Kwick
+Ky  Kylie
+La  Laboe
+Le  Learned
+Lo  Load
+Lu  Lustig
+Ly  Lynch
+Oa  Oatmeal
+Og  Ogmane
+Oo  Oolong
+Os  Ostra
+Pa  Painter
+Pe  Pedro
+Pf  Pfister
+Pj  Pjb
+Po  Pointer
+Ps  Psalm
+Qa  Qanat
+Qo  Qon
+Qu  Quest
+Ra  Radio
+Ro  Roche
+Ru  Rural
+Rw  Rwanda
+Ry  Ryder
+Sa  Sacrifice
+Sg  Sgraffito
+So  Soul
+St  State
+Sv  Svelt
+Sw  Swiss
+Sy  Symantictail
+Sz  Szach
+Ta  Tamara
+Ti  Timer
+To  Total
+Tr  Traum
+Ts  Tsena
+Tu  Tumbs
+Tw  Twice
+Ty  Tyler
+Tz  Tzean
+Ux  Uxurious
+Va  Valerie
+Vi  Vinzenz
+Vo  Volvo
+Vr  Vrack
+Vu  Vulkan
+Vy  Vying
+Wa  Wale
+Wi  Window
+Wo  World
+Wr  Wringen
+Ws  Wsa
+Wu  Wulk
+Wx  Wxe
+Wy  Wyman
+Xa  Xanth
+Xo  Xoxo
+Xu  Xuna
+Xy  Xymna
+Ya  Yaboe
+Yi  Yipes
+Yo  Yoyo
+Yn  Ynough
+Yu  Yueld
+Yv  Yves
+Za  Zabar
+Zo  Zope
+Zu  Zulu
+Zy  Zyle
+Þo  Þorramatur
+
+3.4 Latin Kerning, Numerals   
+
+00 01 02 03 04 05 06 07 08 09
+10 11 12 13 14 15 16 17 18 19
+20 21 22 23 24 25 26 27 28 29
+30 31 32 33 34 35 36 37 38 39
+40 41 42 43 44 45 46 47 48 49
+50 51 52 53 54 55 56 57 58 59
+60 61 62 63 64 65 66 67 68 69
+70 71 72 73 74 75 76 77 78 79
+80 81 82 83 84 85 86 87 88 89
+90 91 92 93 94 95 96 97 98 99
+
+0010203040500607080900101121314151161
+71819100202122324252262728292003031
+323343533637383930040414243445446
+4748494005051525354555657585950060
+61626364656676869600707172737475767
+7879700808182838485868788980090919
+2939495969798990
+
+3.5 Latin Kerning, 
+Numerals + 
+Currency Symbols   
+
+0$0¢0£0¥0€0฿0Ƀ0₫0₴0₺0₽0₹0₸0₮0₩0ƒ0
+1$1¢1£1¥1€1฿1Ƀ1₫1₴1₺1₽1₹1₸1₮1₩1ƒ1
+2$2¢2£2¥2€2฿2Ƀ2₫2₴2₺2₽2₹2₸2₮2₩2ƒ2
+3$3¢3£3¥3€3฿3Ƀ3₫3₴3₺3₽3₹3₸3₮3₩3ƒ3
+4$4¢4£4¥4€4฿4Ƀ4₫4₴4₺4₽4₹4₸4₮4₩4ƒ4
+5$5¢5£5¥5€5฿5Ƀ5₫5₴5₺5₽5₹5₸5₮5₩5ƒ5
+6$6¢6£6¥6€6฿6Ƀ6₫6₴6₺6₽6₹6₸6₮6₩6ƒ6
+7$7¢7£7¥7€7฿7Ƀ7₫7₴7₺7₽7₹7₸7₮7₩7ƒ7
+8$8¢8£8¥8€8฿8Ƀ8₫8₴8₺8₽8₹8₸8₮8₩8ƒ8
+9$9¢9£9¥9€9฿9Ƀ9₫9₴9₺9₽9₹9₸9₮9₩9ƒ9
+
+3.6 Latin Kerning, 
+Num + Uc- + lc + 
+Punctuations
+
+H.OHO.H
+H.AHA.H
+H.ÆHÆ.H
+H.BHB.H
+H.CHC.H
+H.DHD.H
+H.EHE.H
+H.FHF.H
+H.GHG.H
+H.JHJ.H
+H.KHK.H
+H.LHL.H
+H.PHP.H
+H.ÞHÞ.H
+H.QHQ.H
+H.RHR.H
+H.SHS.H
+H.THT.H
+H.UHU.H
+H.VHV.H
+H.WHW.H
+H.XHX.H
+H.YHY.H
+H.ZHZ.H
+n.ono.n
+n.ana.n
+n.bnb.n
+n.cnc.n
+n.dnd.n
+n.ene.n
+n.fnf.n
+n.gng.n
+n.jnj.n
+n.knk.n
+n.lnl.n
+n.pnp.n
+n.qnq.n
+n.rnr.n
+n.sns.n
+n.tnt.n
+n.unu.n
+n.vnv.n
+n.wnw.n
+n.xnx.n
+n.yny.n
+n.znz.n
+H.0H0.H
+H.1H1.H
+H.2H2.H
+H.3H3.H
+H.4H4.H
+H.5H5.H
+H.6H6.H
+H.7H7.H
+H.8H8.H
+H.9H9.H
+
+H:OHO:H
+H:AHA:H
+H:ÆHÆ:H
+H:BHB:H
+H:CHC:H
+H:DHD:H
+H:EHE:H
+H:FHF:H
+H:GHG:H
+H:JHJ:H
+H:KHK:H
+H:LHL:H
+H:PHP:H
+H:ÞHÞ:H
+H:QHQ:H
+H:RHR:H
+H:SHS:H
+H:THT:H
+H:UHU:H
+H:VHV:H
+H:WHW:H
+H:XHX:H
+H:YHY:H
+H:ZHZ:H
+n:ono:n
+n:ana:n
+n:bnb:n
+n:cnc:n
+n:dnd:n
+n:ene:n
+n:fnf:n
+n:gng:n
+n:jnj:n
+n:knk:n
+n:lnl:n
+n:pnp:n
+n:qnq:n
+n:rnr:n
+n:sns:n
+n:tnt:n
+n:unu:n
+n:vnv:n
+n:wnw:n
+n:xnx:n
+n:yny:n
+n:znz:n
+H:0H0:H
+H:1H1:H
+H:2H2:H
+H:3H3:H
+H:4H4:H
+H:5H5:H
+H:6H6:H
+H:7H7:H
+H:8H8:H
+H:9H9:H
+
+H?OHO?H
+H?AHA?H
+H?ÆHÆ?H
+H?BHB?H
+H?CHC?H
+H?DHD?H
+H?EHE?H
+H?FHF?H
+H?GHG?H
+H?JHJ?H
+H?KHK?H
+H?LHL?H
+H?PHP?H
+H?ÞHÞ?H
+H?QHQ?H
+H?RHR?H
+H?SHS?H
+H?THT?H
+H?UHU?H
+H?VHV?H
+H?WHW?H
+H?XHX?H
+H?YHY?H
+H?ZHZ?H
+n?ono?n
+n?ana?n
+n?bnb?n
+n?cnc?n
+n?dnd?n
+n?ene?n
+n?fnf?n
+n?gng?n
+n?jnj?n
+n?knk?n
+n?lnl?n
+n?pnp?n
+n?qnq?n
+n?rnr?n
+n?sns?n
+n?tnt?n
+n?unu?n
+n?vnv?n
+n?wnw?n
+n?xnx?n
+n?yny?n
+n?znz?n
+H?0H0?H
+H?1H1?H
+H?2H2?H
+H?3H3?H
+H?4H4?H
+H?5H5?H
+H?6H6?H
+H?7H7?H
+H?8H8?H
+H?9H9?H
+
+H!OHO!H
+H!AHA!H
+H!ÆHÆ!H
+H!BHB!H
+H!CHC!H
+H!DHD!H
+H!EHE!H
+H!FHF!H
+H!GHG!H
+H!JHJ!H
+H!KHK!H
+H!LHL!H
+H!PHP!H
+H!ÞHÞ!H
+H!QHQ!H
+H!RHR!H
+H!SHS!H
+H!THT!H
+H!UHU!H
+H!VHV!H
+H!WHW!H
+H!XHX!H
+H!YHY!H
+H!ZHZ!H
+n!ono!n
+n!ana!n
+n!bnb!n
+n!cnc!n
+n!dnd!n
+n!ene!n
+n!fnf!n
+n!gng!n
+n!jnj!n
+n!knk!n
+n!lnl!n
+n!pnp!n
+n!qnq!n
+n!rnr!n
+n!sns!n
+n!tnt!n
+n!unu!n
+n!vnv!n
+n!wnw!n
+n!xnx!n
+n!yny!n
+n!znz!n
+H!0H0!H
+H!1H1!H
+H!2H2!H
+H!3H3!H
+H!4H4!H
+H!5H5!H
+H!6H6!H
+H!7H7!H
+H!8H8!H
+H!9H9!H
+
+H-OHO-H
+H-AHA-H
+H-ÆHÆ-H
+H-BHB-H
+H-CHC-H
+H-DHD-H
+H-EHE-H
+H-FHF-H
+H-GHG-H
+H-JHJ-H
+H-KHK-H
+H-LHL-H
+H-PHP-H
+H-ÞHÞ-H
+H-QHQ-H
+H-RHR-H
+H-SHS-H
+H-THT-H
+H-UHU-H
+H-VHV-H
+H-WHW-H
+H-XHX-H
+H-YHY-H
+H-ZHZ-H
+n-ono-n
+n-ana-n
+n-bnb-n
+n-cnc-n
+n-dnd-n
+n-ene-n
+n-fnf-n
+n-gng-n
+n-jnj-n
+n-knk-n
+n-lnl-n
+n-pnp-n
+n-qnq-n
+n-rnr-n
+n-sns-n
+n-tnt-n
+n-unu-n
+n-vnv-n
+n-wnw-n
+n-xnx-n
+n-yny-n
+n-znz-n
+H-0H0-H
+H-1H1-H
+H-2H2-H
+H-3H3-H
+H-4H4-H
+H-5H5-H
+H-6H6-H
+H-7H7-H
+H-8H8-H
+H-9H9-H
+
+H(OHO)H
+H(AHA)H
+H(ÆHÆ)H
+H(BHB)H
+H(CHC)H
+H(DHD)H
+H(EHE)H
+H(FHF)H
+H(GHG)H
+H(JHJ)H
+H(KHK)H
+H(LHL)H
+H(PHP)H
+H(ÞHÞ)H
+H(QHQ)H
+H(RHR)H
+H(SHS)H
+H(THT)H
+H(UHU)H
+H(VHV)H
+H(WHW)H
+H(XHX)H
+H(YHY)H
+H(ZHZ)H
+n(ono)n
+n(ana)n
+n(bnb)n
+n(cnc)n
+n(dnd)n
+n(ene)n
+n(fnf)n
+n(gng)n
+n(jnj)n
+n(knk)n
+n(lnl)n
+n(pnp)n
+n(qnq)n
+n(rnr)n
+n(sns)n
+n(tnt)n
+n(unu)n
+n(vnv)n
+n(wnw)n
+n(xnx)n
+n(yny)n
+n(znz)n
+H(0H0)H
+H(1H1)H
+H(2H2)H
+H(3H3)H
+H(4H4)H
+H(5H5)H
+H(6H6)H
+H(7H7)H
+H(8H8)H
+H(9H9)H
+
+H[OHO]H
+H[AHA]H
+H[ÆHÆ]H
+H[BHB]H
+H[CHC]H
+H[DHD]H
+H[EHE]H
+H[FHF]H
+H[GHG]H
+H[JHJ]H
+H[KHK]H
+H[LHL]H
+H[PHP]H
+H[ÞHÞ]H
+H[QHQ]H
+H[RHR]H
+H[SHS]H
+H[THT]H
+H[UHU]H
+H[VHV]H
+H[WHW]H
+H[XHX]H
+H[YHY]H
+H[ZHZ]H
+n[ono]n
+n[ana]n
+n[bnb]n
+n[cnc]n
+n[dnd]n
+n[ene]n
+n[fnf]n
+n[gng]n
+n[jnj]n
+n[knk]n
+n[lnl]n
+n[pnp]n
+n[qnq]n
+n[rnr]n
+n[sns]n
+n[tnt]n
+n[unu]n
+n[vnv]n
+n[wnw]n
+n[xnx]n
+n[yny]n
+n[znz]n
+H[0H0]H
+H[1H1]H
+H[2H2]H
+H[3H3]H
+H[4H4]H
+H[5H5]H
+H[6H6]H
+H[7H7]H
+H[8H8]H
+H[9H9]H
+
+H“OHO“H
+H“AHA“H
+H“ÆHÆ“H
+H“BHB“H
+H“CHC“H
+H“DHD“H
+H“EHE“H
+H“FHF“H
+H“GHG“H
+H“JHJ“H
+H“KHK“H
+H“LHL“H
+H“PHP“H
+H“ÞHÞ“H
+H“QHQ“H
+H“RHR“H
+H“SHS“H
+H“THT“H
+H“UHU“H
+H“VHV“H
+H“WHW“H
+H“XHX“H
+H“YHY“H
+H“ZHZ“H
+n“ono“n
+n“ana“n
+n“bnb“n
+n“cnc“n
+n“dnd“n
+n“ene“n
+n“fnf“n
+n“gng“n
+n“jnj“n
+n“knk“n
+n“lnl“n
+n“pnp“n
+n“qnq“n
+n“rnr“n
+n“sns“n
+n“tnt“n
+n“unu“n
+n“vnv“n
+n“wnw“n
+n“xnx“n
+n“yny“n
+n“znz“n
+H“0H0“H
+H“1H1“H
+H“2H2“H
+H“3H3“H
+H“4H4“H
+H“5H5“H
+H“6H6“H
+H“7H7“H
+H“8H8“H
+H“9H9“H
+
+H„OHO„H
+H„AHA„H
+H„ÆHÆ„H
+H„BHB„H
+H„CHC„H
+H„DHD„H
+H„EHE„H
+H„FHF„H
+H„GHG„H
+H„JHJ„H
+H„KHK„H
+H„LHL„H
+H„PHP„H
+H„ÞHÞ„H
+H„QHQ„H
+H„RHR„H
+H„SHS„H
+H„THT„H
+H„UHU„H
+H„VHV„H
+H„WHW„H
+H„XHX„H
+H„YHY„H
+H„ZHZ„H
+n„ono„n
+n„ana„n
+n„bnb„n
+n„cnc„n
+n„dnd„n
+n„ene„n
+n„fnf„n
+n„gng„n
+n„jnj„n
+n„knk„n
+n„lnl„n
+n„pnp„n
+n„qnq„n
+n„rnr„n
+n„sns„n
+n„tnt„n
+n„unu„n
+n„vnv„n
+n„wnw„n
+n„xnx„n
+n„yny„n
+n„znz„n
+H„0H0„H
+H„1H1„H
+H„2H2„H
+H„3H3„H
+H„4H4„H
+H„5H5„H
+H„6H6„H
+H„7H7„H
+H„8H8„H
+H„9H9„H
+
+H//OHO//H
+H//AHA//H
+H//ÆHÆ//H
+H//BHB//H
+H//CHC//H
+H//DHD//H
+H//EHE//H
+H//FHF//H
+H//GHG//H
+H//JHJ//H
+H//KHK//H
+H//LHL//H
+H//PHP//H
+H//ÞHÞ//H
+H//QHQ//H
+H//RHR//H
+H//SHS//H
+H//THT//H
+H//UHU//H
+H//VHV//H
+H//WHW//H
+H//XHX//H
+H//YHY//H
+H//ZHZ//H
+n//ono//n
+n//ana//n
+n//bnb//n
+n//cnc//n
+n//dnd//n
+n//ene//n
+n//fnf//n
+n//gng//n
+n//jnj//n
+n//knk//n
+n//lnl//n
+n//pnp//n
+n//qnq//n
+n//rnr//n
+n//sns//n
+n//tnt//n
+n//unu//n
+n//vnv//n
+n//wnw//n
+n//xnx//n
+n//yny//n
+n//znz//n
+H//0H0//H
+H//1H1//H
+H//2H2//H
+H//3H3//H
+H//4H4//H
+H//5H5//H
+H//6H6//H
+H//7H7//H
+H//8H8//H
+H//9H9//H
+
+H\OHO\H
+H\AHA\H
+H\ÆHÆ\H
+H\BHB\H
+H\CHC\H
+H\DHD\H
+H\EHE\H
+H\FHF\H
+H\GHG\H
+H\JHJ\H
+H\KHK\H
+H\LHL\H
+H\PHP\H
+H\ÞHÞ\H
+H\QHQ\H
+H\RHR\H
+H\SHS\H
+H\THT\H
+H\UHU\H
+H\VHV\H
+H\WHW\H
+H\XHX\H
+H\YHY\H
+H\ZHZ\H
+n\ono\/n
+n\ana\/n
+n\bnb\/n
+n\cnc\/n
+n\dnd\/n
+n\ene\/n
+n\fnf\/n
+n\gng\/n
+n\jnj\/n
+n\knk\/n
+n\lnl\/n
+n\pnp\/n
+n\qnq\/n
+n\rnr\/n
+n\sns\/n
+n\tnt\/n
+n\unu\/n
+n\vnv\/n
+n\wnw\/n
+n\xnx\/n
+n\yny\/n
+n\znz\/n
+H\0H0\H
+H\1H1\H
+H\2H2\H
+H\3H3\H
+H\4H4\H
+H\5H5\H
+H\6H6\H
+H\7H7\H
+H\8H8\H
+H\9H9\H
+
+H«OHO»H
+H«AHA»H
+H«ÆHÆ»H
+H«BHB»H
+H«CHC»H
+H«DHD»H
+H«EHE»H
+H«FHF»H
+H«GHG»H
+H«JHJ»H
+H«KHK»H
+H«LHL»H
+H«PHP»H
+H«ÞHÞ»H
+H«QHQ»H
+H«RHR»H
+H«SHS»H
+H«THT»H
+H«UHU»H
+H«VHV»H
+H«WHW»H
+H«XHX»H
+H«YHY»H
+H«ZHZ»H
+n«ono»n
+n«ana»n
+n«bnb»n
+n«cnc»n
+n«dnd»n
+n«ene»n
+n«fnf»n
+n«gng»n
+n«jnj»n
+n«knk»n
+n«lnl»n
+n«pnp»n
+n«qnq»n
+n«rnr»n
+n«sns»n
+n«tnt»n
+n«unu»n
+n«vnv»n
+n«wnw»n
+n«xnx»n
+n«yny»n
+n«znz»n
+H«0H0»H
+H«1H1»H
+H«2H2»H
+H«3H3»H
+H«4H4»H
+H«5H5»H
+H«6H6»H
+H«7H7»H
+H«8H8»H
+H«9H9»H
+
+H»OHO«H
+H»AHA«H
+H»ÆHÆ«H
+H»BHB«H
+H»CHC«H
+H»DHD«H
+H»EHE«H
+H»FHF«H
+H»GHG«H
+H»JHJ«H
+H»KHK«H
+H»LHL«H
+H»PHP«H
+H»ÞHÞ«H
+H»QHQ«H
+H»RHR«H
+H»SHS«H
+H»THT«H
+H»UHU«H
+H»VHV«H
+H»WHW«H
+H»XHX«H
+H»YHY«H
+H»ZHZ«H
+n»ono«n
+n»ana«n
+n»bnb«n
+n»cnc«n
+n»dnd«n
+n»ene«n
+n»fnf«n
+n»gng«n
+n»jnj«n
+n»knk«n
+n»lnl«n
+n»pnp«n
+n»qnq«n
+n»rnr«n
+n»sns«n
+n»tnt«n
+n»unu«n
+n»vnv«n
+n»wnw«n
+n»xnx«n
+n»yny«n
+n»znz«n
+H»0H0«H
+H»1H1«H
+H»2H2«H
+H»3H3«H
+H»4H4«H
+H»5H5«H
+H»6H6«H
+H»7H7«H
+H»8H8«H
+H»9H9«H
+
