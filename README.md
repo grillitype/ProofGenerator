@@ -1,4 +1,4 @@
-# ProofGenerator App
+# ProofGenerator
 ![](data/PG-bw-small.gif)
 
  A tool to automatically generate Proofs with InDesign.
