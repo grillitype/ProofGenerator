@@ -12,7 +12,7 @@
  
  ## Setup and Usage
 - Download and unpack "ProofGenerator.app.zip"
-- Install ProofGenerator.app
+- Drop ProofGenerator.app into Applications folder
 - drag and drop font files (.otf, .ttf) into ProofGenerator
  
   ## ProofGenerator Resources
