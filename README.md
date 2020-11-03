@@ -1,7 +1,7 @@
 # ProofGenerator
 ![](data/PG-bw-small.gif)
 
- A tool to automatically generate Kerning Proofs, with predefined sample strings InDesign. 
+ A tool to automatically generate Kerning Proofs with predefined sample strings in InDesign. 
  
  The ProofGenerator is based on SpecimenDropper, by Alphabet Type:
  https://github.com/AlphabetType/SpecimenDropper/releases/tag/1.0
@@ -19,16 +19,15 @@
 - other .txt files (latin-basic.txt, latin-kerning.txt, etc.) are exported from "GT-Sample-Strings.txt" via the sort-samplestrings.py script and are being linked in the idml Layout template
 - ProofGenerator.py: The ProofGenerator App is mac based, but you can run the ProofGenerator.py script on ohter Operating Systems
 
-
 ### Customisation
 You can customise the layout and content of the template_proof.idml to fit all your proofing needs and edit/add to the sample text. Make sure to run sort-samplestrings.py script, after you made changes to the Sample Text and update the link to the txt files in InDesign. Check out Alphabet Types SpecimenDropper if you want to generate type specimens https://github.com/AlphabetType/SpecimenDropper
 
 
  
-# Strings
+# GT-SampleStrings
  The GT-Sample-Strings.txt file can be used in the Font Editor to display and check the proportions, spacing, kerning etc. of your font
 
- General structure of GT-Sample-Strings.txt: 
+ Structure of GT-Sample-Strings.txt: 
  
  0-1) basics to check proportions in UC and LC latin, spacing of glyphs/numerals/”special” characters
  
