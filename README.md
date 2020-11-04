@@ -22,7 +22,7 @@
 ### Customisation
 Use the files stored in the ProofGenerator App for customisations (right click on ProofGenerator app > Show package contents > Contents > Resources).
 
-You can customise the layout and content of the Template to fit all your proofing needs (Resources > template_proof.idml) and edit/add to the sample text (Resources > Strings > GT-Sample-Strings.txt). Make sure to run sort-samplestrings.py script, after you made changes to the Sample Strings and update the link to the txt files in InDesign. You currently have to use a non-standard font in the layout document, so the program understands what text will be displayed with your font. Also you have to align the text to the grid manually after re-linking the txt files, because paragraph styles are not working (yet).  
+You can customise the layout and content of the template to fit all your proofing needs (Resources > template_proof.idml) and edit/add to the sample text (Resources > Strings > GT-Sample-Strings.txt). Make sure to run sort-samplestrings.py script after you made changes to the Sample Strings and update the link to the txt files in the InDesign template. You currently have to use a non-standard font in the layout document, so the program understands what text will be displayed with your font. Also you have to align the text to the grid manually after re-linking the txt files, because paragraph styles are not working (yet).  
 Check out Alphabet Types SpecimenDropper if you want to generate type specimens https://github.com/AlphabetType/SpecimenDropper
 
 
@@ -51,10 +51,14 @@ Check out Alphabet Types SpecimenDropper if you want to generate type specimens 
 
 ## Setup and Usage of GT-Sample-Strings.txt in Glyphs App
 
- In Glyphs App: Preferences > Sample Strings > Open File > select GT-Sample-Strings.txt
+ In Glyphs: Preferences > Sample Strings > Open File > select GT-Sample-Strings.txt
  
  Switch to glyph-view and use cmd + alt + f to select sample text
- 
 
+ ## Setup and Usage of GT-Sample-Strings.txt in Robofont
+ 
+In Robofont: Preferences > Space Center > Input Text > + > add seperate lines from GT-Sample-Strings.txt 
+
+Open Space Center > Select Sample Text in Dropdown Menu
 
 
