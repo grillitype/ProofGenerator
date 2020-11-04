@@ -6,20 +6,23 @@
  The ProofGenerator is based on SpecimenDropper, by Alphabet Type:
  https://github.com/AlphabetType/SpecimenDropper/releases/tag/1.0
  
- ### Setup and Usage of the ProofGenerator
-- Download and unpack "ProofGenerator.app.zip"
+ ### Setup and Usage of the ProofGenerator (macOS)
+- Download and unpack "ProofGenerator.zip"
 - Drop ProofGenerator.app into Applications folder
-- drag and drop on, or more font files (.otf, .ttf) into ProofGenerator
+- drag and drop one, or more font files (.otf, .ttf) into ProofGenerator
 
  ### Resources 
 (right click on ProofGenerator app > Show package contents > Resources)
 
 - template_proof.idml: Layout Template for the InDesign Proof.
+- GT-Sample-Strings.txt: can be used as Sample Text in a Font Editor
 - sort-samplestrings.py: A python script to sort and split the GT-Sample-Strings.txt into seperate text files. 
-- other .txt files (latin-basic.txt, latin-kerning.txt, etc.) are exported from "GT-Sample-Strings.txt" via the sort-samplestrings.py script and are being linked in the idml Layout template
+- strings (latin-basic.txt, latin-kerning.txt, etc.): These files are exported from "GT-Sample-Strings.txt" via the "sort-samplestrings.py" script, and are being used in the .idml Layout template.
 
 ### Customisation
-You can customise the layout and content of the template_proof.idml to fit all your proofing needs and edit/add to the sample text. Make sure to run sort-samplestrings.py script, after you made changes to the Sample Text and update the link to the txt files in InDesign. You currently have to use a non-standard font in the layout document, so the program understands what text will be displayed with your font. Also you have to align the text to the grid manually after re-linking the txt files, because paragraph styles are not working (yet).  
+Use the files stored in the ProofGenerator App for customisations (right click on ProofGenerator app > Show package contents > Contents > Resources).
+
+You can customise the layout and content of the Template to fit all your proofing needs (Resources > template_proof.idml) and edit/add to the sample text (Resources > Strings > GT-Sample-Strings.txt). Make sure to run sort-samplestrings.py script, after you made changes to the Sample Strings and update the link to the txt files in InDesign. You currently have to use a non-standard font in the layout document, so the program understands what text will be displayed with your font. Also you have to align the text to the grid manually after re-linking the txt files, because paragraph styles are not working (yet).  
 Check out Alphabet Types SpecimenDropper if you want to generate type specimens https://github.com/AlphabetType/SpecimenDropper
 
 
