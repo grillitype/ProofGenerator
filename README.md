@@ -63,5 +63,5 @@ Open Space Center > Select Sample Text in Dropdown Menu
 
 
 ## ProofGenerator-py
-The ProofGenerator-py Folder contains: 
-* 
+The ProofGenerator-py folder contains the Python Script for the ProofGenerator. You can rund the script from the command line:
+*python ProofGenerator.py [path to font file]*
