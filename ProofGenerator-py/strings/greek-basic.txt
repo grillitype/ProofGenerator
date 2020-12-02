@@ -1,0 +1,20 @@
+6.1 Greek Spacing   
+
+HHΔHHΩHHΑHHΒHHΓHHΕHHΖHHΗHHΘHHΙH
+HΚHHΛHHΜHHΝHHΞHHΟHHΠHHΡHHΣHHΤH
+HΥHHΦHHΧHHΨHHΪHHΫHH
+nnμnnπnnαnnβnnγnnδnnεnnζnnηnnθnn
+nιnnκnnλnnνnnξnnοnnρnnςnnσnnτnn
+nυnnφnnχnnψnnωnnίnnϊnnΐnnύnnϋnn
+nΰnnόnnώnnάnnέnnήnn
+
+6.2 Greek Kerning, Essentials   
+
+ΔΓΔ ΔΣΔ ΔΤΔ ΔΥΔ ΔΦΔ ΔΨΔ ΨΔΨ ΓΓΓ ΓΦΓ 
+ΓΣΓ ΩΥΩ ΩΤΩ ΚΦΚ ΚΨΚ ΣΦΣ ΣΨΣ ΦΩΦ ΦΤΦ 
+ΦΥΦ ΦΧΦ ΦΨΦ πππ πτπ τττ γπγ γτγ γλγ γργ 
+γχγ γιγ δλδ δγδ δχδ εζε ενε ζνζ ζςζ ζτζ ζφζ 
+ζςζ  ιτι ιπι κδκ κζκ κφκ λλλ λτλ λπλ λχλ νρν 
+νoνγξγ πεπ υλυ αχα χεχ χζn χχχ γωγ ωδω 
+ωλω ωνω oωo
+

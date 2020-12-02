@@ -1,0 +1,192 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/AdobeFnt22.lst
+FileLength:739
+FileModTime:628423435
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTAlpinaFine-ExtMdIt
+FamilyName:GT Alpina Fine
+StyleName:Extended Medium Italic
+MenuName:GT Alpina Fine Ext Md
+StyleBits:1
+WeightClass:500
+WidthClass:7
+AngleClass:1
+FullName:GT Alpina Fine Ext Md It
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/GT-Alpina-Fine-Extended-Medium-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:216644
+FileModTime:628423451
+NameArray:0,Mac,18,GT Alpina Fine Extd Medium It
+NameArray:0,Mac,4,GT Alpina Fine Ext Md It
+NameArray:0,Win,1,GT Alpina Fine Ext Md
+NameArray:0,Win,16,GT Alpina Fine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTPressuraLCG-Bold
+FamilyName:GT Pressura LCG
+StyleName:Bold
+MenuName:GT Pressura LCG
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GT Pressura LCG Bold
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/GT-Pressura-LCG-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:124728
+FileModTime:628423472
+NameArray:0,Mac,4,GT Pressura LCG Bold
+NameArray:0,Win,1,GT Pressura LCG
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTSectraDisplayLCG-Super
+FamilyName:GT Sectra Display LCG
+StyleName:Super
+MenuName:GT Sectra Display LCG Super
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:GT Sectra Display LCG Super
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/GT-Sectra-LCG-Display-Super.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173572
+FileModTime:628423421
+NameArray:0,Mac,4,GT Sectra Display LCG Super
+NameArray:0,Win,1,GT Sectra Display LCG Super
+NameArray:0,Win,16,GT Sectra Display LCG
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-SemiBold
+FamilyName:IBM Plex Sans
+StyleName:SemiBold
+MenuName:IBM Plex Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/IBMPlexSans-SemiBold-test.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128996
+FileModTime:628425301
+NameArray:0,Mac,4,IBM Plex Sans SemiBold
+NameArray:0,Win,1,IBM Plex Sans SemiBold
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexSans-SemiBold
+FamilyName:IBM Plex Sans
+StyleName:SemiBold
+MenuName:IBM Plex Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/IBMPlexSans-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128928
+FileModTime:628424465
+NameArray:0,Mac,4,IBM Plex Sans SemiBold
+NameArray:0,Win,1,IBM Plex Sans SemiBold
+NameArray:0,Win,16,IBM Plex Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LiterataTT-DisplayExtrabold
+FamilyName:Literata TT
+StyleName:Display Extrabold
+MenuName:Display Extrabold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Literata TT Display Extrabold
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/LiterataTT-DisplayExtrabold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218692
+FileModTime:628430727
+NameArray:0,Win,1,Display Extrabold
+NameArray:0,Win,16,Literata TT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MesserV2.1TRIAL-Medium
+FamilyName:MesserV2.1TRIAL
+StyleName:Medium
+MenuName:MesserV2.1TRIAL Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:MesserV2.1TRIAL Medium
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Desktop/work_on/ProofGenerator/ProofGenerator-py/proof/Document fonts/MesserV2.1TRIAL-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:10608
+FileModTime:628424391
+NameArray:0,Mac,4,MesserV2.1TRIAL Medium
+NameArray:0,Win,1,MesserV2.1TRIAL Medium
+NameArray:0,Win,16,MesserV2.1TRIAL
+%EndFont
+
