@@ -93,11 +93,11 @@ class CreateInDesignproof(object):
             font = TTFont(font_path)
             this_fontdict = {
                 'fontpath': font_path,
-                'familyname': font['name'].getName(1,1,0).string,
-                'style': font['name'].getName(2,1,0).string,
-                'fullname': font['name'].getName(4,1,0).string,
-                'postscriptname': font['name'].getName(6,1,0).string,
-                'version': font['name'].getName(5,1,0).string,
+                'familyname': font['name'].getName(1,1,0).toStr(),
+                'style': font['name'].getName(2,1,0).toStr(),
+                'fullname': font['name'].getName(4,1,0).toStr(),
+                'postscriptname': font['name'].getName(6,1,0).toStr(),
+                'version': font['name'].getName(5,1,0).toStr(),
                 'filename': os.path.basename(font_path),
                 'fonttype': ''
             }
