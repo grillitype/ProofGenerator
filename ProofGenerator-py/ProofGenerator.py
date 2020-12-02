@@ -4,6 +4,7 @@ import zipfile
 from fontTools.ttLib import TTFont
 import datetime
 
+
 class ConfigData(object):
     def __init__(self):
         # Automatically open proof file with standard application at the end?
@@ -105,10 +106,10 @@ class CreateInDesignproof(object):
             this_placeholders = self.addPlaceholderData(this_fontdict)
 
 
-            if 'CFF ' in font: # There is a space after CFF because table tags have 4 letters
+            if 'CFF ' in font:  # There is a space after CFF because table tags have 4 letters
                 this_fontdict['fonttype'] = 'OpenTypeCFF'
             else:
-               this_fontdict['fonttype'] = 'TrueType'
+                this_fontdict['fonttype'] = 'TrueType'
 
             print(this_fontdict)
 
@@ -146,7 +147,6 @@ class CreateInDesignproof(object):
 
             elif placeholder['variable'] == '{{filename}}':
                 placeholder['replaceBy'] = this_fontdict['filename']
-
 
             this_dict.append(placeholder)
 
@@ -188,7 +188,7 @@ class CreateInDesignproof(object):
         for fontpath in self.fontpath_list:
             try:
                 shutil.copy(fontpath, self.c.id_fonts_folderpath)
-            except:
+            except FileNotFoundError:
                 print('Error while copying', fontpath, 'to', self.c.id_fonts_folderpath)
 
 
@@ -288,4 +288,3 @@ if __name__ == '__main__':
                     print('file not found %s' % path)
     else:
         print('No fonts added!')
-
