@@ -60,15 +60,15 @@ def removeDir(dir_path):
         shutil.rmtree(dir_path)
         return True
     except Exception as e:
-        print 'Oops! proofGenerator is unable to handle folder: "%s"' % dir_path
+        print('Oops! proofGenerator is unable to handle folder: "%s"' % dir_path)
         if e.errno == 13:
-            print 'It seems that you have a file inside this directory open: "%s"' % os.path.dirname(sys.argv[0])
-            print 'This could be an InDesign document or a document font. Close it and try again.'
+            print('It seems that you have a file inside this directory open: "%s"' % os.path.dirname(sys.argv[0]))
+            print('This could be an InDesign document or a document font. Close it and try again.')
         elif e.message:
-            print e.message
+            print(e.message)
         else:
-            print e.errno, e
-        print 10*'-'
+            print(e.errno, e)
+        print(10*'-')
         sys.exit('proofGenerator failed and quit ...')
 
 class CreateInDesignproof(object):
@@ -105,7 +105,7 @@ class CreateInDesignproof(object):
             this_placeholders = self.addPlaceholderData(this_fontdict)
 
 
-            if font.has_key('CFF '): # There is a space after CFF because table tags have 4 letters
+            if 'CFF ' in font: # There is a space after CFF because table tags have 4 letters
                 this_fontdict['fonttype'] = 'OpenTypeCFF'
             else:
                this_fontdict['fonttype'] = 'TrueType'
@@ -172,7 +172,7 @@ class CreateInDesignproof(object):
             if os.path.splitext(p)[1] in self.c.allowedFiletypes:
                 pathlist_out.append(p)
             else:
-                print p, 'ignored, because it has no an allowed extension.'
+                print(p, 'ignored, because it has no an allowed extension.')
 
         return pathlist_out
 
@@ -189,7 +189,7 @@ class CreateInDesignproof(object):
             try:
                 shutil.copy(fontpath, self.c.id_fonts_folderpath)
             except:
-                print 'Error while copying', fontpath, 'to', self.c.id_fonts_folderpath
+                print('Error while copying', fontpath, 'to', self.c.id_fonts_folderpath)
 
 
     def replaceIDContent(self, fontdata, placeholder_data):
@@ -285,7 +285,7 @@ if __name__ == '__main__':
                     else:
                         subprocess.call(('open', path))
                 else:
-                    print 'file not found %s' % path
+                    print('file not found %s' % path)
     else:
-        print 'No fonts added!'
+        print('No fonts added!')
 
