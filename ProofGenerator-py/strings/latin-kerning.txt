@@ -69,7 +69,7 @@ EG  AEGIS
 EG  EGYPT
 EJ  ERNTEJAHRE
 EO  EOLIAN
-ES  ESKIMO
+ES  ESCAPE
 ET  EINTRETEN
 EV  BEVORSTEHT
 EW  GEWERBE
@@ -323,7 +323,7 @@ cz  moteuczoma
 dj  djakarta
 eg  egypt
 ej  erntejahre
-es  eskimo
+es  escape
 et  eintreten
 ev  bevorsteht
 ew  gewerbe
@@ -498,7 +498,7 @@ Ef  Effingham
 Eg  Egypt
 Ej  Eject
 Eo  Eolian
-Es  Eskimo
+Es  escape
 Et  Ethiopia
 Ev  Ever
 Ew  Ewan
