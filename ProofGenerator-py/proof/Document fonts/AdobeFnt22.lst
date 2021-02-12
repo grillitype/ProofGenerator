@@ -1,0 +1,64 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/katjaschimmel/Repos/ProofGenerator/ProofGenerator-py/proof/Document fonts/AdobeFnt22.lst
+FileLength:625
+FileModTime:634817208
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTAmerica-ExpULtIt
+FamilyName:GT America
+StyleName:Expanded Ultra Light Italic
+MenuName:GT America Exp U Lt
+StyleBits:1
+WeightClass:250
+WidthClass:9
+AngleClass:1
+FullName:GT America Exp U Lt It
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Repos/ProofGenerator/ProofGenerator-py/proof/Document fonts/GT-America-Expanded-Ultra-Light-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114148
+FileModTime:634817771
+NameArray:0,Mac,18,GT America Expanded Ultra Light It
+NameArray:0,Mac,4,GT America Exp U Lt It
+NameArray:0,Win,1,GT America Exp U Lt
+NameArray:0,Win,16,GT America
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTMaru-Medium
+FamilyName:GT Maru
+StyleName:Medium
+MenuName:GT Maru Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:GT Maru Medium
+WritingScript:Roman
+OutlineFileName:/Users/katjaschimmel/Repos/ProofGenerator/ProofGenerator-py/proof/Document fonts/GT-Maru-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51988
+FileModTime:634817205
+NameArray:0,Mac,4,GT Maru Medium
+NameArray:0,Win,1,GT Maru Medium
+NameArray:0,Win,16,GT Maru
+%EndFont
+
