@@ -225,6 +225,7 @@ TO  TOWER
 TO  TOTAL
 TOT  AUTOTÜR
 TS  TSENA
+TV  CATVINES
 RY  RYAL
 UA  AQUARIUM
 UA  FEBRUARY
@@ -418,6 +419,8 @@ to  stoner
 to  total
 oto  motor
 ts  tsena
+tv  catvines
+tv  outvoted
 ry  ryal
 va  cervantes
 va  valerie
@@ -560,6 +563,8 @@ To  Total
 Tr  Traum
 Ts  Tsena
 Tu  Tumbs
+Tv  Tvilling
+Tv  Tvoria
 Tw  Twice
 Ty  Tyler
 Tz  Tzean
